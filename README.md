@@ -6,5 +6,17 @@ Dies wird mein **erstes** Projekt auf *Github*
 
 Quelle [Pixabay](https://user-images.githubusercontent.com/110892683/183599314-e32fcedf-33f9-45c8-bd57-d495d5ecf1ee.jpg)
 
+## Java Code
+
+```java
+system.out.println("Mein erstes Programm");
+```
+
+## Python Code
+
+```python
+print("Mein erstes Programm")
+```
+
 
 
