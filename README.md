@@ -1,4 +1,4 @@
-# Meine erste Readme!
+# ___Mein erstes Readme!___ :clap:
 
 Dies wird mein **erstes** Projekt auf *Github*
 
@@ -29,10 +29,13 @@ namespace HelloWorld
   {
     static void Main(string[] args)
     {
-      Console.WriteLine("Hello World!");    
+      Console.WriteLine("Mein erstes Programm");    
     }
   }
 }
 ```
 
+## Einfacher Code
+
+`println("Hello")`
 
