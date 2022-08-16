@@ -9,7 +9,7 @@ Ich habe gelernt wie man ein Motorrad anfährt und schaltet. Das Motorrad hat se
 
 ![6dL](https://user-images.githubusercontent.com/110892683/184821472-b160f3c4-69e4-4abf-b4c1-dbff4f6f9f26.gif)
 
-**Der Text beschreibt den Schaltvorgang, der das Bild unterstützen soll.**
+**Der Text beschreibt den Schaltvorgang. Das Bild soll den Schaltvorgang veranschaulichen.**
 
 👍 Ich konnte schnell die Informationen zum Motorrad fahren finden.
 👎 Am Anfang war ich noch sehr nervös, weil ich noch keine eigene Erfahrung hatte, wie man anfahren und schalten muss.
