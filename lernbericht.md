@@ -7,6 +7,8 @@ Ich habe gelernt mit dem Motorrad anzufahren und zu schalten.
 
 Ich habe gelernt wie man ein Motorrad anfährt und schaltet. Das Motorrad hat sechs Gänge. Man muss in den ersten Gang schalten damit man anfahren kann. Wenn man eine bestimmte Geschwindigkeit erreicht, kann man hochschalten. Beim Verlangsamen muss man wieder herunterschalten. Beim Stillstehen kann man auch in Neutral schalten.
 
+![6dL](https://user-images.githubusercontent.com/110892683/184821472-b160f3c4-69e4-4abf-b4c1-dbff4f6f9f26.gif)
+
 **Der Text beschreibt den Schaltvorgang, den das Bild unterstützen soll.**
 
 👍 Ich konnte schnell die Informationen zum Motorrad fahren finden.
